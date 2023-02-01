@@ -103,3 +103,8 @@ nav ul li a:hover::after {
     border-radius: 15px;
     margin-top: 12px;
 }
+
+.about-col-2 {
+    flex-basis: 60%;
+
+}
