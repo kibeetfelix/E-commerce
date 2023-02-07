@@ -284,7 +284,7 @@ nav ul li a:hover::after {
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #fff;
+    color: #3b0ac4;
     transform: background 0.5s;
 }
 
