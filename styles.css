@@ -300,3 +300,7 @@ nav ul li a:hover::after {
 .contact-right {
     flex-basis: 60%;
 }
+
+.contact-left p {
+    margin-top: 30px;
+}
