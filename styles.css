@@ -333,3 +333,7 @@ nav ul li a:hover::after {
     display: inline-block;
     background-color: #ff004f;
 }
+
+.contact-right form {
+    width: 100%;
+}
