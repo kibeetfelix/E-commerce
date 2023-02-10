@@ -323,3 +323,8 @@ nav ul li a:hover::after {
     display: inline-block;
     translate: transform 0.5s;
 }
+
+.social-icon a:hover {
+    color: #ff004f;
+    transform: translateY(-5px);
+}
