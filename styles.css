@@ -314,3 +314,12 @@ nav ul li a:hover::after {
 .social-icon {
     margin-top: 20px;
 }
+
+.social-icon a {
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: #ababab;
+    display: inline-block;
+    translate: transform 0.5s;
+}
