@@ -310,3 +310,7 @@ nav ul li a:hover::after {
     margin: 15px;
     font-size: 25px;
 }
+
+.social-icon {
+    margin-top: 20px;
+}
