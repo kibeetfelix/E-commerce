@@ -370,3 +370,9 @@ form btn2 {
 .copyright i {
     color: #ff004f;
 }
+
+/* --------css for smaller screens--------- */
+
+nav .fa-solid {
+    display: none;
+}
