@@ -411,4 +411,11 @@ nav .fa-solid {
         display: block;
         margin: 25px;
     }
+
+    nav ul .fa-solid {
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+    }
 }
