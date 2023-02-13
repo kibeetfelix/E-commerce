@@ -19,4 +19,7 @@ sidemeu = document.getElementById("sidemenu");
 function openmenu() {
     sidemeu.style.right = ("20px");
 }
+function closemenu() {
+    sidemeu.style.right = ("-200px");
+}
 
