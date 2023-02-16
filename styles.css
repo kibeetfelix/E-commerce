@@ -424,4 +424,8 @@ nav .fa-solid {
         font-size: 40px;
     }
 
+    .about-col-1,
+    .about-col-2 {
+        flex-basis: 100%;
+    }
 }
