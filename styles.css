@@ -459,7 +459,10 @@ nav .fa-solid {
         font-size: 30px;
     }
 
-
+    .header-text {
+        margin-top: 70%;
+        font-size: 15px;
+    }
 }
 
 #msg {
